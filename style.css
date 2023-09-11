@@ -1,0 +1,52 @@
+
+body {
+        font-family: "Inter", sans-serif;
+        background-color: #ef820e;
+        padding: 10px 150px;
+        
+    }
+#container {
+    
+    background-color:#EAEAEA;
+    border-radius: 1%;
+    padding:40px 50px;
+}
+
+#profile img {
+    display: flex;
+    margin: auto;
+    width: 600px; height:130x;
+    justify-content:center;
+    border-radius: 2%;
+    text-align: center;
+    
+}
+#profile {
+    text-align: center;
+
+}
+
+h1, h2 {
+text-align: center;
+color: #895336;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+footer {
+    text-align: center;
+}
